@@ -1,50 +1,69 @@
-Hi there! 👋 I'm Ashiq Anwar K
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashiq Anwar K - GitHub README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2e;
+            color: #ffffff;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #ffcc00;
+        }
+        a {
+            color: #00aaff;
+            text-decoration: none;
+        }
+        .badge {
+            display: inline-block;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>👋 Hi there! I'm <strong>Ashiq Anwar K</strong></h1>
+    <p>🚀 <strong>Full-Stack Developer | MERN & Python (Django/DRF) | Passionate about Scalable Web Apps</strong></p>
+    
+    <h2>🔥 About Me</h2>
+    <ul>
+        <li>🎓 <strong>Computer Science Graduate (2023)</strong></li>
+        <li>💻 <strong>Full-Stack Developer</strong> specializing in <strong>MERN</strong> & <strong>Django REST Framework</strong></li>
+        <li>✈️ <strong>Currently working on SkyVoyage</strong> – A <strong>Flight Booking System</strong></li>
+        <li>📚 Developing a <strong>Book Rental System</strong></li>
+        <li>🌱 <strong>Exploring Cloud & DevOps</strong></li>
+    </ul>
 
-🔥 About Me
-🎓 Computer Science Graduate (2023)
-💻 Full-Stack Developer specializing in MERN & Django REST Framework
-🚀 Passionate about building high-performance web applications
-✈️ Currently working on SkyVoyage – A Flight Booking System with seat selection & payments
-📚 Developing a Book Rental System for seamless book rentals & fine management
-🌱 Exploring Cloud & DevOps for deployment & scalability
-💡 Always learning new technologies & enhancing UI/UX design
-💼 Projects I've Built
-🔹 SkyVoyage ✈️ – Flight Booking System
-A real-time flight search & booking system with:
-✔️ User Authentication & Role-Based Access
-✔️ Seat Selection with Dynamic Pricing
-✔️ Secure Payment Integration (Stripe)
-✔️ Booking Management & Order Confirmation
+    <h2>💼 Projects</h2>
+    <ul>
+        <li><strong>SkyVoyage</strong> – Flight booking with seat selection & payment gateway</li>
+        <li><strong>Employee Management System</strong> – Secure authentication & CRUD operations</li>
+        <li><strong>Library Management System</strong> – Managing books, members, and transactions</li>
+        <li><strong>Clinic Management System</strong> – Patient records, appointments & billing</li>
+    </ul>
 
-🔹 Employee Management System 🏢
-A secure employee records & management system with:
-✔️ User Authentication (JWT-based login)
-✔️ CRUD Operations for Employee Records
-✔️ Profile Photo Upload & Role Management
-✔️ Responsive UI with React & Bootstrap
+    <h2>🛠️ Tech Stack</h2>
+    <p>
+        <img class="badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img class="badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+        <img class="badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        <img class="badge" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img class="badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+        <img class="badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </p>
 
-🔹 Library Management System 📚
-A Django-based book management platform with:
-✔️ Book Search & Reservations
-✔️ Borrowing History & Due Date Notifications
-✔️ Fine Calculation & User Membership
-
-🔹 Clinic Management System 🏥
-A Django + Angular-based medical appointment system:
-✔️ Patient Registration & Appointment Booking
-✔️ Doctor Dashboard & Prescription Management
-✔️ Billing System with Invoice Generation
-
-
-💻 Frontend
-
-
-
-
-
-🖥️ Backend
-
-
-
-
-📦 Database
+    <h2>📫 Connect with Me</h2>
+    <p>
+        <a href="https://www.linkedin.com/in/ashiq-anwar-k/">LinkedIn</a> | 
+        <a href="https://github.com/ASHIQANWARK">GitHub</a> | 
+        <a href="#">Portfolio</a> | 
+        <a href="mailto:your-email@gmail.com">Gmail</a>
+    </p>
+    
+    <h2>⚡ "Code. Create. Innovate."</h2>
+    <p>🚀 Let's build something amazing together!</p>
+</body>
+</html>

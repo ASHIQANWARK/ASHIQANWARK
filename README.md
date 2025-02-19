@@ -1,5 +1,5 @@
-<h1>👋 Hi there! I'm <strong>Ashiq Anwar K</strong></h1>
-    <p>🚀 <strong>Full-Stack Developer | MERN & Python (Django/DRF) | Passionate about Scalable Web Apps</strong></p>
+<br> <br> <br> <br> <h1>👋 Hi there! I'm <strong>Ashiq Anwar K</strong></h1>
+<h2>🚀 <strong>Full-Stack Developer | MERN & Python (Django/DRF) | Passionate about Scalable Web Apps</strong></h2>
     
 <h2>🔥 About Me</h2>
     <ul>
